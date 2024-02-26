@@ -1,0 +1,9 @@
+1. nav
+2. ul-> flex, j-c-f-e, a-i-c
+3. li -> height
+4. a-> h-100 padding
+5. Menu icon
+6. ul -> copy for sidebar
+7. hideOnMobile
+8. sidebar -> fixed, width: 250, backdrop-filter: blur(12px);
+9. backdrop-filter: blur(12px); eta use na krle nicher lekha dekha jabe.
